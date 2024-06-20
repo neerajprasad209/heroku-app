@@ -30,7 +30,7 @@ app.layout = html.Div([
         dcc.Link(
             children='GitHub Repository for this project',
             refresh=True,
-            href='https://github.com/utkarshg1/Credit-Card-Default-Prediction-Utkarsh'),
+            href='https://github.com/neerajprasad209/heroku-app.git'),
 
         html.Br(),
         html.Br(),
