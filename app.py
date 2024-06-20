@@ -21,7 +21,7 @@ with open('./Models/xgbmodel.pkl' , 'rb') as f:
     xgb_model = pickle.load(f)
 
 app.layout = html.Div([
-        html.H1(children = 'Credit Card Default Prediction',
+        html.H1(children = 'Credit Card Default Prediction - Neeraj Prasad',
                 style = {'textAlign':'center'}),
 
         html.Br(),
