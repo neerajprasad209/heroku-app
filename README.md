@@ -45,23 +45,23 @@ Below are steps taken to build this project
 
 ## Documentation
 
-1) [Detailed-Project-Report](https://drive.google.com/file/d/1_DuqYwWFZDtCR-zMlmSWCd04-XJIXwMo/view?usp=sharing)
-2) [High-Level-Design-Document](https://drive.google.com/file/d/1iiKu75WIoyreuKWTatyDh-U22bl-oHnf/view?usp=sharing)
-3) [Low-Level-Design-Document](https://drive.google.com/file/d/1KnLZ-3xE1ZVwfcVjgvPE9o0IaRPr8w1w/view?usp=sharing)
-4) [Architecture](https://drive.google.com/file/d/1eC8BhaQe0DSRfXkELuCuTZf3Gb98Vvq1/view?usp=sharing)
-5) [Wireframe](https://drive.google.com/file/d/1GAQbhLFYdGvJDUwVYL33Iav3zJvbIBup/view?usp=sharing)
+1) [Detailed-Project-Report](https://drive.google.com/file/d/1Uaa8f8sR0gkJY9PK_xt3bswuf-XAt1cv/view?usp=drive_link)
+2) [High-Level-Design-Document](https://drive.google.com/file/d/1J-jRZ-SRwQjJi0eqkjo0ZmEvqqhBA0yO/view?usp=drive_link)
+3) [Low-Level-Design-Document](https://drive.google.com/file/d/1pCtLrQoTme0pLjSLqtfDQuEb0hfU02Cy/view?usp=drive_link)
+4) [Architecture](https://drive.google.com/file/d/15rZY9-HKWtl8vhHM5g4krBHy3V8AOn39/view?usp=drive_link)
+5) [Wireframe](https://drive.google.com/file/d/1vRIHXOgqgsttgM3d8A3ePKJ0Bfm6bz4k/view?usp=drive_link)
 
 # Project Demo
 
-[Youtube-Link](https://www.youtube.com/watch?v=ltktrNRSWEU)
+[Youtube-Link](https://www.youtube.com/watch?v=SQjVszfayhY)
 
 ## Author Linkedin URL 
 
-Linkedin URL - https://www.linkedin.com/in/utkarsh-gaikwad-61194bbb
+Linkedin URL - https://www.linkedin.com/in/neeraj-prasad-86a89b202/
 
 ## Author
 
-[@utkarshg1](https://github.com/utkarshg1)
+[@utkarshg1](https://github.com/neerajprasad209)
 
 
 
