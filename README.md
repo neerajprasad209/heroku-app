@@ -61,7 +61,7 @@ Linkedin URL - https://www.linkedin.com/in/neeraj-prasad-86a89b202/
 
 ## Author
 
-[@utkarshg1](https://github.com/neerajprasad209)
+[@neerajprasad209](https://github.com/neerajprasad209)
 
 
 
