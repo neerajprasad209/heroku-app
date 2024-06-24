@@ -14,7 +14,7 @@ URL - https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-datas
 
 ## WebSite URL
 
-My WebApp URL - https://creditcarddefaultutkarshg.herokuapp.com/
+My WebApp URL - https://credit-card-prediction-app-b25350855058.herokuapp.com/
 
 ## Software Requirements 
 
